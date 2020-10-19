@@ -2,7 +2,7 @@
 
 # Hello World
 
-> One paragraph statement about the project.
+> Intordution to Git, Github & Workflows
 
 ![screenshot](./app_screenshot.png)
 
@@ -42,13 +42,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Adeel**
 
 - GitHub: [@githubhandle](https://github.com/bashforger)
 - Twitter: [@twitterhandle](https://twitter.com/bashforge)
 - LinkedIn: [LinkedIn](https://linkedin.com/muhammad-adeel-danish/)
 
-👤 **Author2**
+👤 **Nihal**
 
 - GitHub: [@githubhandle](https://github.com/apricot12)
 
@@ -61,13 +61,3 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
